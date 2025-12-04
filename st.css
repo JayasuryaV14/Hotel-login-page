@@ -1,0 +1,20 @@
+body {
+    background: #fefefd;
+}
+
+.cont {
+    width: 85%;
+    margin: 30px auto;
+    background: #f9e3c2;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a {
+    margin-right: 20px;
+    color: #c46c00;
+}
