@@ -1,19 +1,83 @@
-body {
-    background: #eeee7e;
-}
-
-.cont {
-    margin: 30px auto;
-    background: #f9e3c2;
-}
-
-.head {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-nav a {
-    margin-right: 20px;
-    color: #c46c00;
-}
+    body {
+        background: #eeeeec;
+    }
+    
+    .submit{
+        background-color: #c46c00;
+        border-radius: 20px;
+        height: 35px;
+    }
+    
+    .learn{
+        background-color: #f7f6f4;
+        border-radius: 20px;
+        height: 35px;
+        color: black;
+    }
+    
+    .cont {
+        margin: 30px auto;
+        background: #f9e3c2;
+        padding: 10px;
+    }
+    
+    .head {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    nav a {
+        margin-right: 20px;
+        color: #c46c00;
+        text-align: justify;
+        position: relative;
+        left: 480px;
+    }
+    
+    .con {
+        margin: 30px auto;
+        background: #dadfdf;
+        width: 98%;
+        padding: 10px;
+    }
+    
+    .yes {
+        text-align: end;
+    }
+    .meals{
+        margin-top: 40px;
+        text-align: center;
+    }
+    .section{
+        display: flex;
+        gap: 170px;
+        justify-content: center;
+    }
+    
+    .one{
+        background-color: #ffffff;
+        width: 200px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    
+    .recipe{
+        text-align: center;
+       
+        padding: 100px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+    
+    .life{
+        background-color: #f7d2a4;
+       padding: 40px 50px;
+       border-radius: 10px;
+       width:90%;
+       margin: 40px auto;
+       margin-bottom: 50px;
+        
+       
+                
+    }
